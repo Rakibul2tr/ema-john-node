@@ -15,3 +15,14 @@
     margin-right: 5px;
     margin-left: 50px;
 }
+.pagination{
+    padding: 20px;
+}
+.pagination button{
+    margin-left: 5px;
+    padding: 3px 6px;
+    cursor: pointer;
+}
+.selected{
+    background: blue;
+}
