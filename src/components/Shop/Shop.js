@@ -18,7 +18,7 @@ const Shop = () => {
 
         const size=10;
     useEffect(() => {
-        fetch(`http://localhost:4000/products?page=${page}&&size=${size}`)
+        fetch(`https://peaceful-waters-91347.herokuapp.com/products?page=${page}&&size=${size}`)
             .then(res => res.json())
             .then(data => {
                 setProducts(data.result);

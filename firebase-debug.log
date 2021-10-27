@@ -1,0 +1,26 @@
+[debug] [2021-10-27T14:54:03.671Z] ----------------------------------------------------------------------
+[debug] [2021-10-27T14:54:03.673Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\user\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2021-10-27T14:54:03.673Z] CLI Version:   9.21.0
+[debug] [2021-10-27T14:54:03.674Z] Platform:      win32
+[debug] [2021-10-27T14:54:03.674Z] Node Version:  v14.17.1
+[debug] [2021-10-27T14:54:03.674Z] Time:          Wed Oct 27 2021 20:54:03 GMT+0600 (Bangladesh Standard Time)
+[debug] [2021-10-27T14:54:03.675Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2021-10-27T14:54:03.735Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2021-10-27T14:54:03.735Z] > authorizing via signed-in user (rakibul2tr@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Hero-React\ema-john-firebase-modules
+
+Before we get started, keep in mind:
+
+  * You are currently outside your home directory
+  * You are initializing within an existing Firebase project directory
+
